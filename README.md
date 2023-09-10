@@ -1,6 +1,6 @@
 # Databases and SQL for Data Science by IBM
 
-<img align="center" src="[https://th.bing.com/th/id/OIP.5s-MEeIQ1O_t-zVI03O5pAHaEK?pid=ImgDet&rs=1](https://th.bing.com/th/id/R.2935697c4e0e1ecee5a514001f95cd02?rik=NvhC3L8K9xrFig&pid=ImgRaw&r=0)" alt="Smiley face" height="300" width="600">
+<img align="center" src="(https://th.bing.com/th/id/R.2935697c4e0e1ecee5a514001f95cd02?rik=NvhC3L8K9xrFig&pid=ImgRaw&r=0)" alt="IBM" height="300" width="600">
 
 
 ## About this Course
