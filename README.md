@@ -107,7 +107,7 @@ In this module we learned:
 **Honors Peer-graded Assignment** Advanced SQL for Data Engineers
 
 This course certificate**\
-(<img align="center" src="assests/certificate.png" alt="banner">)
+<img align="center" src="assests/certificate.png" alt="banner">
 
 
 #### ***Acknowledgment!!!***
