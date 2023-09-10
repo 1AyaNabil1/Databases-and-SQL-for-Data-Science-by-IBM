@@ -1,8 +1,6 @@
 # Databases and SQL for Data Science by IBM
 
-<img src="https://th.bing.com/th/id/OIP.5s-MEeIQ1O_t-zVI03O5pAHaEK?pid=ImgDet&rs=1" alt="Smiley face" height="300" width="600">
-
-#### Instructor(s) : Rav Ahuja
+<img align="center" src="[https://th.bing.com/th/id/OIP.5s-MEeIQ1O_t-zVI03O5pAHaEK?pid=ImgDet&rs=1](https://th.bing.com/th/id/R.2935697c4e0e1ecee5a514001f95cd02?rik=NvhC3L8K9xrFig&pid=ImgRaw&r=0)" alt="Smiley face" height="300" width="600">
 
 
 ## About this Course
@@ -109,7 +107,7 @@ In this module we learned:
 **Honors Peer-graded Assignment** Advanced SQL for Data Engineers
 
 This course certificate**\
-![certificate](https://www.coursera.org/account/accomplishments/verify/4DZV3QXZ7KGS?utm_source=link&utm_medium=certificate&utm_content=cert_image&utm_campaign=pdf_header_button&utm_product=course)
+![certificate](<img align="center" src="assests/certificate.png" alt="banner">)
 
 
 #### ***Acknowledgment!!!***
