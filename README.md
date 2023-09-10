@@ -1,8 +1,7 @@
 # Databases and SQL for Data Science by IBM
 
-<img src="https://i.imgur.com/YCFnjvg.png" alt="Smiley face" height="300" width="600">
+<img src="https://th.bing.com/th/id/OIP.5s-MEeIQ1O_t-zVI03O5pAHaEK?pid=ImgDet&rs=1" alt="Smiley face" height="300" width="600">
 
-![IBM](http://i.imgur.com/Qktqnu1.png) INSTRUCTORS
 #### Instructor(s) : Rav Ahuja
 
 
