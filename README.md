@@ -106,7 +106,7 @@ In this module we learned:
 **Graded** JOIN operations
 **Honors Peer-graded Assignment** Advanced SQL for Data Engineers
 
-This course certificate**\
+**This course certificate**\
 <img align="center" src="assests/certificate.png" alt="banner">
 
 
@@ -114,5 +114,7 @@ This course certificate**\
 
 Warm Regards, \
 Aya Nabil \
-Email: ayanabil3200@gmail.com \
+Email: ayanabil3200@gmail.com 
+
+**The noteimages and note module summary is taken from **sambhipiyush** and this is his repo link: https://github.com/sambhipiyush/Databases-and-SQL-for-Data-Science-IBM/tree/master**
 
