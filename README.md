@@ -1,6 +1,10 @@
 # Databases and SQL for Data Science by IBM
 
-<img align="center" src="https://th.bing.com/th/id/R.2935697c4e0e1ecee5a514001f95cd02?rik=NvhC3L8K9xrFig&pid=ImgRaw&r=0" alt="IBM" height="300" width="600">
+<p align="center">
+
+  <img height="100" src="https://user-images.githubusercontent.com/67054356/132362689-31859a26-5d52-4eff-a4c4-ee6a8fd2f16c.png">  
+
+</p>
 
 
 ## About this Course
