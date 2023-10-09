@@ -110,7 +110,7 @@ In this module we learned:
 **Graded** JOIN operations
 **Honors Peer-graded Assignment** Advanced SQL for Data Engineers
 
-## **This course certificate**\
+## This course certificate:
 <img align="center" src="assests/certificate.png" alt="banner">
 
 
